@@ -24,5 +24,20 @@ public class App
         pejanji.tambahJanji(waktuJanji5, "temen");
         
         pejanji.tampilkanSemuaWaktuDatang();
+
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
+        System.out.println("Halo");
     }
 }
